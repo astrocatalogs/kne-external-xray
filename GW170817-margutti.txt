@@ -1,5 +1,5 @@
 GW170817
-(1)	2017arXiv171005431M
+(1)	2017ApJ...848L..20M
 (2) 2017arXiv171005437E
 TSTART		TSTOP		Ei		Ef		UnabsFlux	errFUnabs	NHMW	Instrument						Ref
 (mjd)		(mjd)		(keV)	(keV)	(c/s)		(c/s)						(erg/s/cm2)								(cm-2)	(cm-2)	
